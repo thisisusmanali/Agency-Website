@@ -1,0 +1,13 @@
+# Node modules directory
+/node_modules/
+
+# Next.js build output
+/.next/
+
+# Environment variables file
+.env
+
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
